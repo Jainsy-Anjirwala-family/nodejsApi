@@ -1,0 +1,24 @@
+{
+  "name": "nodejsapi",
+  "version": "1.0.0",
+  "description": "node index.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jainsy-Anjirwala-family/nodejsApi.git"
+  },
+  "author": "Jainsy Anjirwala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jainsy-Anjirwala-family/nodejsApi/issues"
+  },
+  "homepage": "https://github.com/Jainsy-Anjirwala-family/nodejsApi#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.0",
+    "nodejsapi": "file:"
+  }
+}
